@@ -1,1 +1,1 @@
-## Made by kosuke14
+## Made by [kosuke14](https://github.com/kosuke14)
